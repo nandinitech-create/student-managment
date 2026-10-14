@@ -1,2 +1,2 @@
-# student-managment
-Students133
+# e-commerce website
+adora e-commerce website 
